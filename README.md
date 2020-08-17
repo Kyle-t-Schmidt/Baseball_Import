@@ -7,7 +7,9 @@ I ahve also provided the zip file in this repository in case the link stops work
 
 ## Using the program
 The program was written and designed to be run on Ubuntu Linux. You need to have a postgresql database available and you need to have the pgfutter utility:
+
 postgresql: https://www.postgresql.org/download/linux/ubuntu/
+
 pgfutter: https://github.com/lukasmartinelli/pgfutter
 
 Before running the program you need to insert your postgresql information and path to where the downloaded and extracted files will be located.
